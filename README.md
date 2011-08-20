@@ -8,11 +8,6 @@ location and the URL for 7990 libraries.
 
     [
       {
-        "url": "http://www.ohiolink.edu/cgi-bin/libweb-search.pl", 
-        "name": "Keyword Search for location, library type,", 
-        "location": "name or other information."
-      }, 
-      {
         "url": "http://libraries.adelphi.edu/", 
         "name": "Adelphi University", 
         "location": "Garden City NY"
