@@ -6,7 +6,7 @@ and extract information about library websites around the world and
 persist it as JSON. The libraries.json file that is committed here has name,
 location and the URL for 7990 libraries.
 
-To re-crawl you will need to install [lxml](http://pypi.python.org/pypi/lxml) 
-and then run libraries.py
+To re-crawl you will need to install [Python](http://python.org), 
+[lxml](http://pypi.python.org/pypi/lxml) and then run libraries.py
 
 License: [CCO](http://creativecommons.org/about/cc0)
