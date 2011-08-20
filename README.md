@@ -4,7 +4,7 @@ around the world? It's pretty unlikely, but if you have, read on.
 This screen scraper will crawl [LIBWEB](http://lists.webjunction.org/libweb/)
 and extract information about library websites around the world and 
 persist it as JSON. The libraries.json file that is committed here has name,
-location and the URL for 7990 libraries.
+location and the URL for 7990 libraries, kinda like:
 
     [
       {
